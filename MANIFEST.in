@@ -1,3 +1,4 @@
 include COPYING
 include ipaddr_test.py
 include RELEASENOTES
+include ipaddr.py
